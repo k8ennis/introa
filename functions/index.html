@@ -1,0 +1,16 @@
+<script>
+
+//compound interest A=P(1+r/100)^t
+
+
+
+
+function CompoundInterest(principal, rate, years) {
+	var parenthesis = 1+ rate/100
+	var entire = principal*parenthesis
+	var ci = entire^years
+	console.log("The compound interest after " + years + " years is " + ci + " dollars");
+
+}
+
+CompoundInterest(900, 6, 12)
