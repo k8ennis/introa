@@ -1,0 +1,26 @@
+<script>
+
+
+var carsCost = function(price){
+
+
+	var months = prompt("Have you leased your car for '60 months' or '48 months'?")
+	if(months==="60 months")
+	{
+		var value = (price * 0.0418)
+		console.log("You must pay $" + value.toFixed(2) + " in interest on your car for a 60 month lease.");
+	}
+	else
+	{
+		if (months==="48 months")
+			var value = (price * 0.0415)
+		console.log("You must pay $" + value.toFixed(2) + " in interest on your car for a 48 month lease.");
+	}
+
+
+}
+
+carsCost(prompt("How much did your car cost? (please just answer in numbers, don't use a dollar sign or anything)"));
+
+
+</script>
