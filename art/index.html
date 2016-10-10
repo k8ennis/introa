@@ -1,0 +1,40 @@
+<html>
+<head></head>
+<body>
+The painting :)
+<canvas id="myCanvas" width="450" height="400" ></canvas>
+<script>
+// color of the orange background #CF3D19
+
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+//Background
+ctx.beginPath();
+ctx.fillStyle="#CF3D19";
+ctx.fillRect(0,0,450,400);
+ctx.closePath();
+
+//first teal line
+ctx.beginPath();
+ctx.fillStyle="#7F9491";
+ctx.fillRect(45,170,27,260);
+ctx.closePath();
+
+//second line
+ctx.beginPath();
+ctx.fillStyle="#288C8B";
+ctx.fillRect(200,0,45,230);
+ctx.closePath();
+
+//third line
+ctx.beginPath();
+ctx.fillStyle="#788C89";
+ctx.fillRect(350,190,50,210);
+ctx.closePath();
+
+//(right/left, up/down, width, height)
+
+</script>
+</body>
+</html>
