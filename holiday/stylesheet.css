@@ -1,0 +1,57 @@
+body {
+	background: ;
+	background-size: 100% 100%;
+	background-color: #468263
+}
+
+.centerMe{
+	text-align: center;
+	color: #731509;
+	font-family: 'Playfair Display', serif;
+}
+.pageWrapper {
+	background-color: #468263;
+	width: 70%;
+	margin-left: 15%;
+	padding: 20px 20px 20px 20px;
+}
+
+#photoWrapper {
+	width: 50%;
+	margin-left: 25%;
+}
+
+#thePhoto {
+	width: 100%;
+}
+
+audio { 
+   display:none;
+}
+
+#forwardBtn {
+	position: relative;
+	float: right;
+}
+
+button {
+	background: #C19469;
+	color: white;
+	font-family: 'Playfair Display', serif;
+
+}
+h1 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 50;
+}
+p {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 30;
+}
+#chart_div {
+	margin-left: 25%;
+	font-family: 'Playfair Display', serif;
+
+}
