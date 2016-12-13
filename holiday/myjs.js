@@ -1,13 +1,5 @@
 var ImageArray =[
-"https://images.dailyhive.com/20160912140657/Christmas-champagne-Andrzej-SowaShutterstock.jpg",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/14947552_690360097779315_3482325206432378994_n.jpg?oh=54501e6832acfdcca4ad6c59bcbbb9ff&oe=5888D953",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/15027869_1782038005381068_875032131981513709_n.jpg?oh=c5ae6bf5569cdac1c2ad3a2ea4abc49d&oe=58B8FAC9",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/15094877_696307500517908_2346563867204335977_n.jpg?oh=6b242a54b3f7f31222e3e1a520949a97&oe=58B9E9F6",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/15073433_1786866481564887_1211657222605501222_n.jpg?oh=c0eac56be97977b6f16ce0bd8d7ae2c1&oe=58CF88FF",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/15037197_695464000602258_8188229855029320467_n.jpg?oh=06ba839f21dc9f29ba4176c7680a111a&oe=58CCFBFA",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/15095557_695463963935595_4900756281157857798_n.jpg?oh=ea361b9db250e796fcbfaefc16b92b66&oe=5889AEEC",
-"https://scontent.fijd1-1.fna.fbcdn.net/v/t1.0-9/1654284_1649035178681352_603732348788962386_n.jpg?oh=578d49e6a1ca6eade17e7235cfa63cd7&oe=58AFAAFF",
-"https://rs720.pbsrc.com/albums/ww204/Angel_Love_Blue/Gif/Christmas65llisallindsay.gif~c200"
+"https://images.dailyhive.com/20160912140657/Christmas-champagne-Andrzej-SowaShutterstock.jpg"
 ];
 
 var currentIndex = 0;
